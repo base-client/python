@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="base-client",
-    version="0.0.1",
+    version="0.0.2",
     description="base client",
     url="https://github.com/base-client/python",
     long_description="",
