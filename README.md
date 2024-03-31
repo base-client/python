@@ -1,4 +1,4 @@
-# base-client-python
+# Base Client for Python
 
 ## Features
  - socket
